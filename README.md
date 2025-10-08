@@ -127,7 +127,7 @@ Uncomment the relevant sections to enable these features.
 
 ## 📝 To-Do
 
-- [ ] **Add profile picture**: Replace the placeholder in the About section (see instructions below)
+- [x] ~~**Add profile picture**~~ ✅ **COMPLETED** - Profile picture (image.jpg) added to About section
 - [ ] Add actual project screenshots/images
 - [x] ~~Upload CV PDF and link to download button~~ ✅ **COMPLETED** - CV linked to Google Drive
 - [x] ~~Add live demo links for projects~~ ✅ **COMPLETED** - All projects linked (YouTube demos & live site)
